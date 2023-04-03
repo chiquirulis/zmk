@@ -14,7 +14,7 @@
 
 / {
         keymap {
-                compatible = "zmk,keymap";
+                compatible = "zmk,keymap"
                 compatible = "zmk,backlight";
 
                 default_layer {
